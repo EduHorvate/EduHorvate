@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EduHorvate/EduHorvate/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/EduHorvate/EduHorvate/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduHorvate&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduHorvate&layout=compact&theme=radical"/>
 </div>
 
 ###
